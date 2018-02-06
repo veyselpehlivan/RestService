@@ -1,6 +1,6 @@
 # Quiz Program 
 
-This project is a chatbot that makes quiz. This program is worked on Facebook messenger by using Java, Spring boot and [messenger4j]. 
+This project is a chatbot that makes quiz. This program is worked on Facebook messenger by using Java, Spring boot and messenger4j. 
 
 ## Getting Started
 
